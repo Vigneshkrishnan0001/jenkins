@@ -1,4 +1,4 @@
 def call(name){
-  git url: "https://github.com/Vigneshkrishnan0001/jenkins.git"
+  echo ${name}
 }
-return this
+
