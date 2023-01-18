@@ -1,3 +1,4 @@
 def call(name){
-  echo "https://github.com/Vigneshkrishnan0001/jenkins.git"
+  git url: "https://github.com/Vigneshkrishnan0001/jenkins.git"
 }
+return this
